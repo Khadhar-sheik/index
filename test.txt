@@ -1,4 +1,3 @@
 this is github
-this is asrin
 test git
 how to use github
